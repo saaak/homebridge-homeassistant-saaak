@@ -1,4 +1,4 @@
-# # [homebridge-homeassistant-saaak](https://www.npmjs.com/package/homebridge-homeassistant-saaak)
+# [homebridge-homeassistant-saaak](https://www.npmjs.com/package/homebridge-homeassistant-saaak)
 对官方版本的homebridge-homeassistant的验证方式做出修改，使其适应新版homeassistant
 
 ## 安装方法
