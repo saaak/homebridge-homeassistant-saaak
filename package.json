@@ -1,0 +1,31 @@
+{
+  "name": "homebridge-homeassistant-saaak",
+  "version": "1.0.0",
+  "description": "适配homeassistant最新版本，配置方法与官方一样",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saaak/homebridge-homeassistant-saaak.git"
+  },
+  "keywords": [
+    "homeassistant",
+    "homebridge"
+  ],
+  "author": "saaak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saaak/homebridge-homeassistant-saaak/issues"
+  },
+  "homepage": "https://github.com/saaak/homebridge-homeassistant-saaak#readme",
+  "dependencies": {
+    "eventsource": "^0.2.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb-base": "^11.1.0"
+  }
+}
